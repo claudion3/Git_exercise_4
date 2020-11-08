@@ -1,2 +1,7 @@
 Hello world
+<<<<<<< Updated upstream
 learning code
+=======
+number 1
+number 3
+>>>>>>> Stashed changes
